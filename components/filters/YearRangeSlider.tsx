@@ -31,10 +31,10 @@ export function YearRangeSlider() {
   const setPredefinedRange = (range: 'historical' | 'forecast' | 'all') => {
     switch (range) {
       case 'historical':
-        updateFilters({ yearRange: [start_year, base_year] })
+        updateFilters({ yearRange: [2020, 2023] })
         break
       case 'forecast':
-        updateFilters({ yearRange: [base_year + 1, forecast_year] })
+        updateFilters({ yearRange: [2025, 2032] })
         break
       case 'all':
         updateFilters({ yearRange: [start_year, forecast_year] })
@@ -115,7 +115,7 @@ export function YearRangeSlider() {
 
       {/* Base Year Indicator */}
       <div className="text-xs text-black text-center">
-        Base Year: <span className="font-medium text-black">{base_year}</span>
+        Base Year: <span className="font-medium text-black">2024</span>
       </div>
     </div>
   )

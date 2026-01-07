@@ -251,17 +251,6 @@ export const useDashboardStore = create<DashboardStore>((set, get) => ({
   updateFilters: (newFilters) => {
     console.log('🔧 Store: updateFilters called with:', newFilters)
     set((state) => {
-      // IMPORTANT: When switching to Volume, force segmentType to "By Product Type"
-      // Volume data only exists for "By Product Type" segment
-      if (newFilters.dataType === 'volume' && state.filters.dataType !== 'volume') {
-        console.log('🔧 Store: Switching to Volume - forcing segmentType to "By Product Type"')
-        newFilters = {
-          ...newFilters,
-          segmentType: 'By Product Type',
-          segments: [], // Clear segments when switching data type
-        }
-      }
-
       // If segmentType is changing, save current geographies and restore for new type
       if (newFilters.segmentType !== undefined && newFilters.segmentType !== state.filters.segmentType) {
         const oldSegmentType = state.filters.segmentType
@@ -426,7 +415,7 @@ export const useDashboardStore = create<DashboardStore>((set, get) => ({
     console.log('🔧 Store: setSelectedChartGroup called with:', groupId)
     set({ selectedChartGroup: groupId })
     // Load default opportunity filters when switching to opportunity matrix
-    if (groupId === 'coherent-opportunity') {
+    if (groupId === 'WMR-opportunity') {
       const currentData = get().data
       if (currentData) {
         const defaultOpportunityFilters = getDefaultOpportunityFilters(currentData)
