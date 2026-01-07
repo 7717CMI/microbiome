@@ -3,7 +3,7 @@
  * Defines the grouping of charts for different analytical perspectives
  */
 
-export type ChartGroupId = 'market-analysis' | 'coherent-opportunity' | 'competitive-intelligence' | 'customer-intelligence' | 'customer-intelligence-database'
+export type ChartGroupId = 'market-analysis' | 'coherent-opportunity' | 'competitive-intelligence'
 
 export interface ChartGroup {
   id: ChartGroupId
@@ -34,20 +34,6 @@ export const CHART_GROUPS: ChartGroup[] = [
     description: 'Competitor analysis and market share',
     charts: ['competitive-intelligence'], // This includes both Market Share and Competitive Dashboard
     icon: '🏆'
-  },
-  {
-    id: 'customer-intelligence',
-    label: 'Customer Intelligence',
-    description: 'Customer segmentation and insights',
-    charts: ['customer-intelligence'],
-    icon: '👥'
-  },
-  {
-    id: 'customer-intelligence-database',
-    label: 'Customer Intelligence',
-    description: 'Customer database with proposition tables',
-    charts: ['customer-intelligence-database'],
-    icon: '👤'
   }
 ]
 
