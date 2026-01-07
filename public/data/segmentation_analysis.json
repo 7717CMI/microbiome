@@ -1,0 +1,541 @@
+{
+  "Global": {
+    "By Product Type": {
+      "Microbiome Modulators": {
+        "Postbiotics": {},
+        "Soluble Microbial Products/Metabolite": {}
+      }
+    },
+    "By Therapeutic Area": {
+      "Gastrointestinal Disorders": {
+        "C. difficile Infection (CDI)": {},
+        "Inflammatory Bowel Disease (IBD)": {},
+        "Irritable Bowel Syndrome (IBS)": {}
+      },
+      "Metabolic Disorders": {
+        "Type 2 Diabetes": {},
+        "Obesity": {},
+        "Nonalcoholic Steatohepatitis (NASH)": {}
+      },
+      "Oncology": {
+        "Immuno-oncology": {},
+        "Managing Chemotherapy Side Effects": {}
+      },
+      "Autoimmune & Central Nervous System Disorders": {
+        "Multiple Sclerosis": {},
+        "Rheumatoid Arthritis": {},
+        "Autism Spectrum Disorder (ASD)": {},
+        "Parkinson's Disease": {}
+      },
+      "Infectious Diseases": {
+        "Multi-Drug Resistant (MDR) Pathogen Infections": {},
+        "Helicobacter pylori infection": {}
+      }
+    },
+    "By Microbiome Target Site": {},
+    "By Route of Administration": {},
+    "By End User": {},
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Mexico": {},
+        "Rest of Latin America": {}
+      },
+      "Middle East": {
+        "GCC": {},
+        "Israel": {},
+        "Rest of Middle East": {}
+      },
+      "Africa": {
+        "North Africa": {},
+        "Central Africa": {},
+        "South Africa": {}
+      }
+    }
+  },
+  "North America": {
+    "By Product Type": {
+      "Microbiome Modulators": {
+        "Postbiotics": {},
+        "Soluble Microbial Products/Metabolite": {}
+      }
+    },
+    "By Therapeutic Area": {
+      "Gastrointestinal Disorders": {
+        "C. difficile Infection (CDI)": {},
+        "Inflammatory Bowel Disease (IBD)": {},
+        "Irritable Bowel Syndrome (IBS)": {}
+      },
+      "Metabolic Disorders": {
+        "Type 2 Diabetes": {},
+        "Obesity": {},
+        "Nonalcoholic Steatohepatitis (NASH)": {}
+      },
+      "Oncology": {
+        "Immuno-oncology": {},
+        "Managing Chemotherapy Side Effects": {}
+      },
+      "Autoimmune & Central Nervous System Disorders": {
+        "Multiple Sclerosis": {},
+        "Rheumatoid Arthritis": {},
+        "Autism Spectrum Disorder (ASD)": {},
+        "Parkinson's Disease": {}
+      },
+      "Infectious Diseases": {
+        "Multi-Drug Resistant (MDR) Pathogen Infections": {},
+        "Helicobacter pylori infection": {}
+      }
+    },
+    "By Microbiome Target Site": {},
+    "By Route of Administration": {},
+    "By End User": {},
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Mexico": {},
+        "Rest of Latin America": {}
+      },
+      "Middle East": {
+        "GCC": {},
+        "Israel": {},
+        "Rest of Middle East": {}
+      },
+      "Africa": {
+        "North Africa": {},
+        "Central Africa": {},
+        "South Africa": {}
+      }
+    }
+  },
+  "Europe": {
+    "By Product Type": {
+      "Microbiome Modulators": {
+        "Postbiotics": {},
+        "Soluble Microbial Products/Metabolite": {}
+      }
+    },
+    "By Therapeutic Area": {
+      "Gastrointestinal Disorders": {
+        "C. difficile Infection (CDI)": {},
+        "Inflammatory Bowel Disease (IBD)": {},
+        "Irritable Bowel Syndrome (IBS)": {}
+      },
+      "Metabolic Disorders": {
+        "Type 2 Diabetes": {},
+        "Obesity": {},
+        "Nonalcoholic Steatohepatitis (NASH)": {}
+      },
+      "Oncology": {
+        "Immuno-oncology": {},
+        "Managing Chemotherapy Side Effects": {}
+      },
+      "Autoimmune & Central Nervous System Disorders": {
+        "Multiple Sclerosis": {},
+        "Rheumatoid Arthritis": {},
+        "Autism Spectrum Disorder (ASD)": {},
+        "Parkinson's Disease": {}
+      },
+      "Infectious Diseases": {
+        "Multi-Drug Resistant (MDR) Pathogen Infections": {},
+        "Helicobacter pylori infection": {}
+      }
+    },
+    "By Microbiome Target Site": {},
+    "By Route of Administration": {},
+    "By End User": {},
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Mexico": {},
+        "Rest of Latin America": {}
+      },
+      "Middle East": {
+        "GCC": {},
+        "Israel": {},
+        "Rest of Middle East": {}
+      },
+      "Africa": {
+        "North Africa": {},
+        "Central Africa": {},
+        "South Africa": {}
+      }
+    }
+  },
+  "Asia Pacific": {
+    "By Product Type": {
+      "Microbiome Modulators": {
+        "Postbiotics": {},
+        "Soluble Microbial Products/Metabolite": {}
+      }
+    },
+    "By Therapeutic Area": {
+      "Gastrointestinal Disorders": {
+        "C. difficile Infection (CDI)": {},
+        "Inflammatory Bowel Disease (IBD)": {},
+        "Irritable Bowel Syndrome (IBS)": {}
+      },
+      "Metabolic Disorders": {
+        "Type 2 Diabetes": {},
+        "Obesity": {},
+        "Nonalcoholic Steatohepatitis (NASH)": {}
+      },
+      "Oncology": {
+        "Immuno-oncology": {},
+        "Managing Chemotherapy Side Effects": {}
+      },
+      "Autoimmune & Central Nervous System Disorders": {
+        "Multiple Sclerosis": {},
+        "Rheumatoid Arthritis": {},
+        "Autism Spectrum Disorder (ASD)": {},
+        "Parkinson's Disease": {}
+      },
+      "Infectious Diseases": {
+        "Multi-Drug Resistant (MDR) Pathogen Infections": {},
+        "Helicobacter pylori infection": {}
+      }
+    },
+    "By Microbiome Target Site": {},
+    "By Route of Administration": {},
+    "By End User": {},
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Mexico": {},
+        "Rest of Latin America": {}
+      },
+      "Middle East": {
+        "GCC": {},
+        "Israel": {},
+        "Rest of Middle East": {}
+      },
+      "Africa": {
+        "North Africa": {},
+        "Central Africa": {},
+        "South Africa": {}
+      }
+    }
+  },
+  "Latin America": {
+    "By Product Type": {
+      "Microbiome Modulators": {
+        "Postbiotics": {},
+        "Soluble Microbial Products/Metabolite": {}
+      }
+    },
+    "By Therapeutic Area": {
+      "Gastrointestinal Disorders": {
+        "C. difficile Infection (CDI)": {},
+        "Inflammatory Bowel Disease (IBD)": {},
+        "Irritable Bowel Syndrome (IBS)": {}
+      },
+      "Metabolic Disorders": {
+        "Type 2 Diabetes": {},
+        "Obesity": {},
+        "Nonalcoholic Steatohepatitis (NASH)": {}
+      },
+      "Oncology": {
+        "Immuno-oncology": {},
+        "Managing Chemotherapy Side Effects": {}
+      },
+      "Autoimmune & Central Nervous System Disorders": {
+        "Multiple Sclerosis": {},
+        "Rheumatoid Arthritis": {},
+        "Autism Spectrum Disorder (ASD)": {},
+        "Parkinson's Disease": {}
+      },
+      "Infectious Diseases": {
+        "Multi-Drug Resistant (MDR) Pathogen Infections": {},
+        "Helicobacter pylori infection": {}
+      }
+    },
+    "By Microbiome Target Site": {},
+    "By Route of Administration": {},
+    "By End User": {},
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Mexico": {},
+        "Rest of Latin America": {}
+      },
+      "Middle East": {
+        "GCC": {},
+        "Israel": {},
+        "Rest of Middle East": {}
+      },
+      "Africa": {
+        "North Africa": {},
+        "Central Africa": {},
+        "South Africa": {}
+      }
+    }
+  },
+  "Middle East": {
+    "By Product Type": {
+      "Microbiome Modulators": {
+        "Postbiotics": {},
+        "Soluble Microbial Products/Metabolite": {}
+      }
+    },
+    "By Therapeutic Area": {
+      "Gastrointestinal Disorders": {
+        "C. difficile Infection (CDI)": {},
+        "Inflammatory Bowel Disease (IBD)": {},
+        "Irritable Bowel Syndrome (IBS)": {}
+      },
+      "Metabolic Disorders": {
+        "Type 2 Diabetes": {},
+        "Obesity": {},
+        "Nonalcoholic Steatohepatitis (NASH)": {}
+      },
+      "Oncology": {
+        "Immuno-oncology": {},
+        "Managing Chemotherapy Side Effects": {}
+      },
+      "Autoimmune & Central Nervous System Disorders": {
+        "Multiple Sclerosis": {},
+        "Rheumatoid Arthritis": {},
+        "Autism Spectrum Disorder (ASD)": {},
+        "Parkinson's Disease": {}
+      },
+      "Infectious Diseases": {
+        "Multi-Drug Resistant (MDR) Pathogen Infections": {},
+        "Helicobacter pylori infection": {}
+      }
+    },
+    "By Microbiome Target Site": {},
+    "By Route of Administration": {},
+    "By End User": {},
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Mexico": {},
+        "Rest of Latin America": {}
+      },
+      "Middle East": {
+        "GCC": {},
+        "Israel": {},
+        "Rest of Middle East": {}
+      },
+      "Africa": {
+        "North Africa": {},
+        "Central Africa": {},
+        "South Africa": {}
+      }
+    }
+  },
+  "Africa": {
+    "By Product Type": {
+      "Microbiome Modulators": {
+        "Postbiotics": {},
+        "Soluble Microbial Products/Metabolite": {}
+      }
+    },
+    "By Therapeutic Area": {
+      "Gastrointestinal Disorders": {
+        "C. difficile Infection (CDI)": {},
+        "Inflammatory Bowel Disease (IBD)": {},
+        "Irritable Bowel Syndrome (IBS)": {}
+      },
+      "Metabolic Disorders": {
+        "Type 2 Diabetes": {},
+        "Obesity": {},
+        "Nonalcoholic Steatohepatitis (NASH)": {}
+      },
+      "Oncology": {
+        "Immuno-oncology": {},
+        "Managing Chemotherapy Side Effects": {}
+      },
+      "Autoimmune & Central Nervous System Disorders": {
+        "Multiple Sclerosis": {},
+        "Rheumatoid Arthritis": {},
+        "Autism Spectrum Disorder (ASD)": {},
+        "Parkinson's Disease": {}
+      },
+      "Infectious Diseases": {
+        "Multi-Drug Resistant (MDR) Pathogen Infections": {},
+        "Helicobacter pylori infection": {}
+      }
+    },
+    "By Microbiome Target Site": {},
+    "By Route of Administration": {},
+    "By End User": {},
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Mexico": {},
+        "Rest of Latin America": {}
+      },
+      "Middle East": {
+        "GCC": {},
+        "Israel": {},
+        "Rest of Middle East": {}
+      },
+      "Africa": {
+        "North Africa": {},
+        "Central Africa": {},
+        "South Africa": {}
+      }
+    }
+  }
+}
